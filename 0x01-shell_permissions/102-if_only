@@ -1,2 +1,2 @@
 #!/bin/bash
-if[user guillaume hello] chown betty hello
+if[user guillaume hello] then chown betty hello

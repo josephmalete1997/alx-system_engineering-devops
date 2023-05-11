@@ -1,0 +1,2 @@
+#!/bin/bash
+if(su guillaume hello):chown betty hello
